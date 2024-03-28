@@ -1,0 +1,5 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     Création de la bibliothèque C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Builds\VisualStudio2022\x64\Debug\VST3\SimpleEQ.lib et de l'objet C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Builds\VisualStudio2022\x64\Debug\VST3\SimpleEQ.exp
+  SimpleEQ_VST3.vcxproj -> C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Builds\VisualStudio2022\x64\Debug\VST3\SimpleEQ.dll
+          1 fichier(s) copié(s).
+  Impossible de trouver C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Builds\VisualStudio2022\x64\Debug\VST3\SimpleEQ.vst3\Contents\moduleinfo.json

@@ -1,0 +1,1 @@
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Builds\VisualStudio2022\x64\Debug\VST3\SimpleEQ.dll

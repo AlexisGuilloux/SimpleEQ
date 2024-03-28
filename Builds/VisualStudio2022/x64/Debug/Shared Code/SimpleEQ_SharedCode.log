@@ -1,0 +1,95 @@
+﻿  PluginProcessor.cpp
+  PluginEditor.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_ARA.cpp
+  include_juce_audio_processors_ara.cpp
+  include_juce_audio_processors_lv2_libs.cpp
+  include_juce_audio_utils.cpp
+  include_juce_data_structures.cpp
+  include_juce_dsp.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_extra.cpp
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginProcessor.cpp(80,53): warning C4100: 'index' : paramètre formel non référencé
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginProcessor.cpp(84,64): warning C4100: 'index' : paramètre formel non référencé
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginProcessor.cpp(89,80): warning C4100: 'newName' : paramètre formel non référencé
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginProcessor.cpp(89,53): warning C4100: 'index' : paramètre formel non référencé
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginProcessor.cpp(144,96): warning C4100: 'midiMessages' : paramètre formel non référencé
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,49): warning C4244: 'argument' : conversion de 'int' en 'ValueType', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,49): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,49): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,49): warning C4244:             ValueType=float
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,49): warning C4244:         ]
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,42): warning C4244: 'argument' : conversion de 'int' en 'ValueType', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,42): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,42): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,42): warning C4244:             ValueType=float
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,42): warning C4244:         ]
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,39): warning C4244: 'argument' : conversion de 'int' en 'ValueType', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,39): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,39): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,39): warning C4244:             ValueType=float
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,39): warning C4244:         ]
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,36): warning C4244: 'argument' : conversion de 'int' en 'ValueType', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,36): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,36): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,36): warning C4244:             ValueType=float
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(18,36): warning C4244:         ]
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(47,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(51,55): warning C4244: 'argument' : conversion de 'int' en 'ValueType', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(51,55): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(51,55): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(51,55): warning C4244:             ValueType=float
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(51,55): warning C4244:         ]
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(51,28): warning C4244: 'argument' : conversion de 'int' en 'ValueType', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(51,28): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(51,28): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(51,28): warning C4244:             ValueType=float
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(51,28): warning C4244:         ]
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(88,13): warning C4244: 'argument' : conversion de 'Type' en 'float', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(88,13): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(88,13): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(88,13): warning C4244:             Type=double
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(88,13): warning C4244:         ]
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(121,19): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(199,65): warning C4244: 'argument' : conversion de 'double' en 'ValueType', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(199,65): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(199,65): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(199,65): warning C4244:             ValueType=int
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(199,65): warning C4244:         ]
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(201,63): warning C4244: 'argument' : conversion de 'double' en 'ValueType', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(201,63): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(201,63): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(201,63): warning C4244:             ValueType=int
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(201,63): warning C4244:         ]
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(202,65): warning C4244: 'argument' : conversion de 'double' en 'ValueType', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(202,65): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(202,65): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(202,65): warning C4244:             ValueType=int
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(202,65): warning C4244:         ]
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(204,80): warning C4244: 'argument' : conversion de 'double' en 'ValueType', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(204,80): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(204,80): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(204,80): warning C4244:             ValueType=int
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(204,80): warning C4244:         ]
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(206,83): warning C4244: 'argument' : conversion de 'double' en 'ValueType', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(206,83): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(206,83): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(206,83): warning C4244:             ValueType=int
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(206,83): warning C4244:         ]
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(209,65): warning C4244: 'argument' : conversion de 'double' en 'ValueType', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(209,65): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(209,65): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(209,65): warning C4244:             ValueType=int
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(209,65): warning C4244:         ]
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(210,65): warning C4244: 'argument' : conversion de 'double' en 'ValueType', perte possible de données
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(210,65): warning C4244:         with
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(210,65): warning C4244:         [
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(210,65): warning C4244:             ValueType=int
+C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Source\PluginEditor.cpp(210,65): warning C4244:         ]
+  include_juce_audio_processors.cpp
+  include_juce_core.cpp
+  include_juce_gui_basics.cpp
+  SimpleEQ_SharedCode.vcxproj -> C:\Users\Alexis\Desktop\Developpement\Projets JUCE\SimpleEQ\Builds\VisualStudio2022\x64\Debug\Shared Code\SimpleEQ.lib
